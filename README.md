@@ -148,12 +148,13 @@ and categorized into three classes:
 ---
 
 ## Project Structure
+```text
 insurance-risk-segmentation/
 ├── data/ # Raw and processed datasets
 ├── notebooks/ # EDA, feature engineering, modeling
 ├── src/ # Utility scripts (if any)
 ├── README.md
-
+```
 
 ---
 
